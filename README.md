@@ -54,3 +54,8 @@ O arquivo `artillery/grades-load-test.yml` executa 50 requisições por segundo 
 
 ## Uso de IA
 Projeto implementado com auxílio do GitHub Copilot (GPT-5.1-Codex (Preview)) para acelerar a prototipação, mantendo revisão manual completa.
+
+## Alunos:
+- Marcos Vinicius Pereira Barbosa de Araujo
+- Ana Beatriz Faustino de Souza
+
