@@ -50,7 +50,8 @@ O arquivo `artillery/grades-load-test.yml` executa 50 requisições por segundo 
 
 ## Entregáveis
 - GitHub: `https://github.com/mvpbarbosa/Trabalho-de-Qualidade.git`
-- YouTube: `em breve...`
+- Vídeo arquitura: `https://www.canva.com/design/DAG7IsawMyk/qOtjTka55mnCq4ZX26j0BA/edit?utm_content=DAG7IsawMyk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton`
+- Funcionamento: `https://drive.google.com/file/d/1r4megtDGOXT64SFPi8S62v-RdfOXcN-X/view`
 
 ## Uso de IA
 Projeto implementado com auxílio do GitHub Copilot (GPT-5.1-Codex (Preview)) para acelerar a prototipação, mantendo revisão manual completa.
